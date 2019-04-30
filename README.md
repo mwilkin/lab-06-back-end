@@ -4,7 +4,9 @@ Lab 06: Node, npm, and Express.js
 # lab-06-back-end
 
 **Author**: Matt Wilkin
-**Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
+**Version**: 1.0.0 -Scaffolded
+1.0.1 - Added Location Feature
+1.0.2 - Added Weather Feature
 
 ## Overview
 
@@ -30,9 +32,35 @@ Dependencies: express, cors, .env,
 
 04-30-2019 10:00am - Application now has a fully-functional express server, with a GET route for the location resource.
 
+04-30-2019 12:15pm - Application now has a fully-functional express server, with a GET route for the location resource.
+
 ## Credits and Collaborations
 
 Collaborators: Tia Rose https://github.com/TRose2014
+
+
+##Feature #1
+Number and name of feature: Add Location Feature
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 8:20am
+
+Finish time: 10:00am
+
+Actual time needed to complete: 2 hours 20 minutes
+
+##Feature #2
+
+Number and name of feature: Add Weather Feature
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 10:10am
+
+Finish time: 12:10pm
+
+Actual time needed to complete: 2 hours
 
 
 
