@@ -2,9 +2,12 @@
   "name": "lab-06-back-end",
   "version": "1.0.0",
   "description": "lab06 City Explorer",
+  "engines": {
+    "node": "11.14.0"
+  },
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "start": "node server.js",
     "watch": "nodemon server.js"
   },
