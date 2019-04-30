@@ -26,6 +26,7 @@ app.get('/location', (request, response) => {
 
 //Helper Function
 function searchToLatLong(query) {
+  if(!query) throw new Error('No query sent');
   const geoData =require('./data/geo.json');
   const location = {
     search_query: query,
