@@ -11,8 +11,6 @@ Lab 06: Node, npm, and Express.js
 This City Explorer application will allow the user to submit a city and state and the returning results will be a map of the location. As well as the current weather, places to eat, and movies to see.
 
 
-
-
 ## Getting Started
 Set up City-Explorer directory
 Create a repository for the back end
@@ -28,9 +26,9 @@ Dependencies: express, cors, .env,
 
 
 ## Change Log
-<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:
+<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:-->
 
-01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource.
+04-30-2019 10:00am - Application now has a fully-functional express server, with a GET route for the location resource.
 
 ## Credits and Collaborations
 
